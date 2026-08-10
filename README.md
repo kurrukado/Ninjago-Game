@@ -13,8 +13,8 @@
 A technical patch to natively revive **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) on Android 14, 15, and 16, resolving OpenGL initialization crashes and fixing legacy FUSION Engine multi-touch defects.
 
 ### 🛠 Technical Patches
-## 1. Hidden API Bypass (Fixes SIGABRT Crash & Black Screen)
-## 2. Multi-Touch Isolation & Floating Joystick Rewrite
+1. Hidden API Bypass (pass through google checker to point right into game library)
+2. Multi-Touch Isolation & Floating Joystick Rewrite (this may not worked well)
 
 ### 🚀 Quick Setup
 (make sure that you have downloaded the .obb file before proccessing, you can find it on community source)
@@ -33,8 +33,8 @@ Non-profit reverse-engineering and preservation project. All game assets and eng
 Bản vá kỹ thuật giúp hồi sinh **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) chạy trực tiếp trên Android 14, 15 và 16; khắc phục triệt để lỗi crash khởi tạo OpenGL và lỗi cảm ứng đa điểm của FUSION Engine cũ.
 
 ### 🛠 Chi tiết Bản vá Kỹ thuật
-## 1. Bypass Hidden API (Sửa lỗi Crash SIGABRT & Màn hình đen)
-## 2. Phân lập Cảm ứng đa điểm & Viết lại Floating Joystick
+1. Bypass Hidden API (vượt các kiểm duyệt gắt gao của google để lấy đúng nguồn đồ họa)
+2. Phân lập Cảm ứng đa điểm & Viết lại Floating Joystick (có thể hoạt động không như mong đợi)
 
 ### 🚀 Cài đặt nhanh
 (trước khi thực hiện, hãy tải .obb trước, có thể tìm trên nguồn cộng đồng)
