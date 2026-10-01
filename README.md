@@ -4,13 +4,13 @@
 ![Status](https://img.shields.io/badge/Status-Fully_Working-success.svg)
 ![Engine](https://img.shields.io/badge/Engine-FUSION_Engine-blue.svg)
 
-🌍 **[Tiếng Việt](#-tiếng-việt)** | 🇬🇧 **[English](#-english)**
+🌍 🇬🇧 **[English](#-english)**
 
 ---
 
 ## 🇬🇧 English
 
-A technical patch to natively revive **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) on Android 14, 15, and 16, resolving OpenGL initialization crashes and fixing legacy FUSION Engine multi-touch defects.
+A technical patch to natively revive **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) on Android 14, 15, and 16, resolving OpenGL initialization crashes and fixing legacy FUSION Engine multi-touch defects, the game input may stuck due to FOX Engine, i cant't fix it.
 
 ### 🛠 Technical Patches
 1. Hidden API Bypass (pass through google checker to point right into game library)
@@ -27,21 +27,3 @@ A technical patch to natively revive **LEGO Ninjago: Tournament** (`com.lego.nin
 Non-profit reverse-engineering and preservation project. All game assets and engine code belong to **WB Games** and **The LEGO Group**.
 
 ---
-
-## 🇻🇳 Tiếng Việt
-
-Bản vá kỹ thuật giúp hồi sinh **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) chạy trực tiếp trên Android 14, 15 và 16; khắc phục triệt để lỗi crash khởi tạo OpenGL và lỗi cảm ứng đa điểm của FUSION Engine cũ.
-
-### 🛠 Chi tiết Bản vá Kỹ thuật
-1. Bypass Hidden API (vượt các kiểm duyệt gắt gao của google để lấy đúng nguồn đồ họa)
-2. Phân lập Cảm ứng đa điểm & Viết lại Floating Joystick (có thể hoạt động không như mong đợi)
-
-### 🚀 Cài đặt nhanh
-(trước khi thực hiện, hãy tải .obb trước, có thể tìm trên nguồn cộng đồng)
-1. Tải file `game_aligned.apk` từ mục [Releases](../../releases).
-2. Chép thư mục OBB gốc vào đường dẫn: `Bộ nhớ trong/Android/obb/com.lego.ninjago.toe/`, lưu ý đặt file .obb vào thư mục `com.lego.ninjago.toe`.
-3. Cài đặt APK và mở game.
-
-### ⚠️ Tuyên bố từ chối trách nhiệm
-
-Dự án dịch ngược và bảo tồn game phi lợi nhuận. Mọi tài sản game và mã nguồn engine thuộc về **WB Games** và **The LEGO Group**.
