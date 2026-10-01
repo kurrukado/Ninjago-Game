@@ -1,16 +1,10 @@
-# 🥷 LEGO Ninjago: Tournament - Modern Android Fix (Android 14+)
+# LEGO Ninjago: Tournament - Modern Android Fix (Android 14+)
 
 ![Android Support](https://img.shields.io/badge/Android-14%2B-brightgreen.svg)
-![Status](https://img.shields.io/badge/Status-Fully_Working-success.svg)
 ![Engine](https://img.shields.io/badge/Engine-FUSION_Engine-blue.svg)
 
-🌍 🇬🇧 **[English](#-english)**
-
 ---
-
-## 🇬🇧 English
-
-A technical patch to natively revive **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) on Android 14, 15, and 16, resolving OpenGL initialization crashes and fixing legacy FUSION Engine multi-touch defects, the game input may stuck due to FOX Engine, i cant't fix it.
+A technical patch to natively revive **LEGO Ninjago: Tournament** (`com.lego.ninjago.toe`) on Android 14, 15, and 16, resolving OpenGL initialization crashes and fixing legacy FUSION Engine multi-touch defects, the game input may stucked while pressing 2 buttons in a time due to the engine, i can't fix it unless i have the source code.
 
 ### 🛠 Technical Patches
 1. Hidden API Bypass (pass through google checker to point right into game library)
